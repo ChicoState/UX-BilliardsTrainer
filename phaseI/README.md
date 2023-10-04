@@ -14,8 +14,49 @@ One method of research we participated in is Competitive analysis. We gathered a
 
 
 ## Findings
+Competitive Analysis
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Youtube was a strong competitor because of the amount of content that the user could learn from. There are videos covering every aspect of pool from beginner learning to advanced learning. Youtube is also available on every device for free, making it very accessible. However, a downside of youtube is that it could potentially teach bad technique because of the lack of any regulation. It also has no way of tracking your skill improvement.
+
+Drill Room was a very interesting competitor because of its ability to interact with the user through AI. It used this AI to tell the user which shot to take based on the options on the pool table. This app requires a lot of setup though, including a tripod and good lighting. It also requires a subscription service to access more drills and only works on IOS. While this app has a lot of potential, it seems like a hassle to use. We were also unable to test the quality of the AI because of our limited budget.
+
+Basic Billiards was a much simpler option. It’s a free website that teaches courses through articles and short animations. The site provides excellent and reliable information on all aspects of pool and is available on all devices. The only problem is that it lacks any form of interactivity.
+
+The last competitor was physical training aids. This option provides the best interactivity but is much more expensive than the other options. Physical trainers can account for factors that AI is unable to, such as bad bumpers on a table or if the table is lopsided. Quality is also dependent on how good the trainer is. We were unable to test this option out because of our limited budget.
+
+
+Heuristic Analysis
+
+1. Visibility of System Status: 7/10 
+The site has a lot of short animations that are easy to follow along with. The play and replay buttons are both very obvious and don’t require much thought to use. The only problem is when pausing videos, there is no feedback that you paused the video. 
+
+2. Match between system and the real world: 7/10 
+The site does a great job of defining the necessary terms for pool. At the start of each course, the site describes a scenario and explains how you should use the cue ball and table to make your shot. This is how the site defines each term such as bank shots or spinning. Instead of just defining the shot, a realistic situation is used instead which is very helpful.The only problem with this is that each course is labeled by a pool term, which the user might not understand before the lesson.
+
+3. User control and freedom: 8/10
+At all times, the site has headlines for courses, blog, about, and contact us. Most importantly, the site has it’s name at the top right which when clicked on sends you back to the main screen. It’s not exceptional but works as it should. 
+
+4. Consistency and standards:10/10 
+There is no ambiguity with any of the wording on the site. Everything makes sense as it should.  
+
+5. Error prevention: 10/10 
+The site does not leave any room for errors to happen since the layout is so simplistic. 
+
+6. Recognition rather than recall: 10/10 
+The site does a great job at providing images for everything that is interactable. It makes it easy to recognize what can be interacted with and what purpose everything serves, such as the play and replay buttons. 
+
+7. Flexibility and efficiency of use: 8/10
+The site has a shortcut where after entering a new page, you can see from what page you left off from. This takes away the need to use a back button. 
+
+8. Aesthetic and minimalist design: 10/10 
+The layout is fantastic. The design is very basic but only provides useful information and images to help navigate. 
+
+9. Help users recognize, diagnose, and recover from errors: 5/10
+There isn’t any room for error and therefore there is no need for recovery. 
+
+10. Help and documentation: 10/10 
+The site provides helpful labels and short sentences to help the user navigate to whatever section they are looking for. Simple and effective.
+
 
 <!-- MORE APPROPRIATE FOR THE FINDINGS SECTION YOU CAN EXPAND UPON THIS
   Youtube ranked rather high due to its variability in content and accessibility behind the product. However, this also brings the issue of little regulation on quality which could teach users incorrectly and its lack of skill assessment and skill tracking. It is a Free option and accessible on nearly all Internet-enabled devices.<br><br>
