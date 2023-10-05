@@ -75,7 +75,9 @@ After collecting data on our competitors, it became clear that interactivity is 
 ## Caveats
 We did not take actual feedback from users so we made assumptions about who our users might and thus we could not do any testing.
 <br/>
+<br/>
 We are a novice UX team comprised of students, so the inability to dedicate a substantial amount of time and experience limits the teams ability.
+<br>
 <br>
 We also have little to no funding, making it difficult to test products.
 
