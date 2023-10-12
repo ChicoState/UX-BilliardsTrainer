@@ -5,7 +5,7 @@ Billiards can be hard to master, hiring private tutors and reading books can onl
 
 * **[Yizhak Cohen](https://github.com/UsabilityEngineering/ux-portfolio-YizhakTime)** - Uploaded UX sketch, user stories and created Introduction and Caveats section 
 * **[Tim Lyons](https://github.com/UsabilityEngineering/ux-portfolio-AverageOtter)** - Executive Summary, Methods, Primary Contact between teams 
-* **[Jacob Santoyo](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Jacob Santoyo](https://github.com/UsabilityEngineering/ux-portfolio-JacobyJohnson34))** - Findings, Conclusions
 
 # User-Centered Design Artifacts
 
