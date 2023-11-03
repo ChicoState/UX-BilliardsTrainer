@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Billiards is an easy game to learn, but a hard game to master. Billiards trainer aims to lessen this gap by providing a smooth learning curve to guide players. In this phase we focused primarily on ensuring a smooth user experience and refining our ideas into a concrete wireframe.  
 
 ## Methods
 For this phase, our team conducted a Cognitive Walkthrough and obtained Informal Feedback to gain new insights for our wireframes and our design. First, we conducted a **Cognitive Walkthrough** which evaluates our design and wireframes by checking if the user knows what to do at every step of our wireframe and if not, then they had to document what steps did they get stuck on or get confused and explain why. Hence, we started by having two users read through several scenarios we had given them and then they had to look at the wireframes and evaluate whether each step made sense and document their progress. Our end goal was to determine whether our wireframes was user-friendly and was easy for the user to reach the end goal. 
@@ -16,7 +16,19 @@ Our last method was extracting **Informal Feedback** from the Software Engineeri
 	C. Or would users prefer a DM style communication?
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+After careful analysis of the results of the cognitive walkthrough given by two exterior designers, we have found that users would like to:
+
+* Have a more clear way to login
+* View progress over time.
+* Have dates associated with matches and drill completion
+* Further analysis of matches to deduce matters like was it Fair matchmaking
+
+As for the questions we asked developers working on other projects to receive Informal feedback, we found that they:
+
+* Preferred the aspect ratio of a phone.
+* Liked the idea of user drill creation
+* Thought forum board posting would be a good form of communication between players and the community
+* Additionally gave ideas about an ‘elo’ system, so players are evenly matched based on player rank, games won, and experience playing. 
 
 ## Conclusions
 
