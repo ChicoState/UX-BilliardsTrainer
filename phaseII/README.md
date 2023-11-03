@@ -11,8 +11,11 @@ Our last method was extracting **Informal Feedback** from the Software Engineeri
 1. What aspect ratio would the class prefer for our app: a laptop or a phone aspect ratio?
 2. Would the class like an option to create their own drills or use templates to create their own Billiard practice drills?
 3. What type of communication would the class like to use: 
+
 	A. Would they prefer a form style communication (i.e. Users can make posts and people can respond to them and make their comments)
+
 	B. Would they prefer a real-time forum style communication (i.e. Users can chat with each other in real-time so messages are not saved, but they communicate with other people live)
+
 	C. Or would users prefer a DM style communication?
 ## Findings
 
