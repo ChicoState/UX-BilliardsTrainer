@@ -23,4 +23,4 @@ Our last method was extracting **Informal Feedback** from the Software Engineeri
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 ## Caveats
-
+Despite our best efforts in trying to have an unbiased and error-free review of our walkthrough, we have some major caveats such as getting Cognitive Walkthrough from a limited pool of people who did not fit our Personas. Also, since our Wireframe had only 2 frames at the time of the walkthrough, we had a limited congitive walkthrough, so we could not get more feedback for our other pages. 
