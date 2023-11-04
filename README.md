@@ -39,10 +39,24 @@ _Ability to help others_: Users Like sharing! Give them a way to **teach others*
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The game of pool is a very popular pastime but it can be very difficult to
+improve and learn new skills. Whether a new player or an expert, Billiards Trainer aims to help
+players advance their abilities by providing helpful drills, tracking their stats, and providing
+feedback to take them to the next level.
+
+**Designing Wireframes**: We created a profile page. We still need to create the other pages such
+as the login and home pages.
+
+**Cognitive Walkthroughs**: Showed that users wanted a better visualization of their stats. This
+could be done by adding new statistics such as the time of their games and the opponent that
+they faced. Users also found it difficult to log into their profile since the wireframe had the user
+starting from the point of already being logged in.
+
+**User Feedback**: We learned that users prefer a phone sized aspect ratio. We also learned that
+users liked the idea of creating their own drills and preferred the style of “thought posting” for
+communicating with other users. Users also conveyed ideas of an “elo” system that would make
+it so that players could find matches based on similar rank, games won, or experience in
+general.
 
 [Full phase II report](phaseII/)
 
