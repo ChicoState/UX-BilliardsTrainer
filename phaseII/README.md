@@ -32,7 +32,8 @@ As for the questions we asked developers working on other projects to receive In
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+We concluded that we needed to add more pages to our wireframe to make it easier to navigate. Users found it difficult to do a cognitive walkthrough since we only had two pages. Users also wanted us to add other features including a way to view their progress towards improvement, such as their success rate of making pool shots. Also as a result of the cognitive walkthroughs, we will add the dates for every match and completion of a drill. We also plan to implement every aspect of the user feedback into our project. In the next phase, we will plan on adding a way to create drills as well as a forum board as a way for players to communicate with one another. 
+Users made it clear they wanted a way to ensure matches would be fair by having matchmaking be based off of rank and experience. We will find a way to add this in the next phase.
 
 ## Caveats
 Despite our best efforts in trying to have an unbiased and error-free review of our walkthrough, we have some major caveats such as getting Cognitive Walkthrough from a limited pool of people who did not fit our Personas. Also, since our Wireframe had only 2 frames at the time of the walkthrough, we had a limited congitive walkthrough, so we could not get more feedback for our other pages. 
