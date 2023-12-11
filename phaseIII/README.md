@@ -5,7 +5,21 @@ BilliardsTrainer serves to make learning Billiards easy for beginners, casual pl
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+### Usability Study
+Our team facilitated an usability study (n = 4) on the Billiards Trainer prototype. We recruited from the sample of CSCI 431W Usability Engineering due  to time and budget constraints. We facilitated four appointments with the fifth being a no-show. We realize that the ideal lowest sample number should be five. 
+#### Introduction
+The test was executed as the following, after sitting down the subjects are introduced to the [Informed Consent](assets/INFORMEDCONSENTFORM.pdf) form which is read to them as they have their own copy to follow along. The informed consent explains the time requirement, risks, and the lack of incentive and that it is a test of the product not of the user. Once signed the moderator then explains what the test will entail, including the use of the “think-aloud-protocol” as described on the [Usability Test Plan Protocol](assets/BilliardsTestPlanProtocol.pdf)
+#### Background
+The moderator then proceeds to the Background Questions and takes note of important information. The 1st question is asked to attempt to understand the common methods how a subject would approach a sport to gauge overall viability to using a website to  assist in training. The 2nd question is related to interest in Billiards and is used to understand why or how people were first introduced to Billiards. The 3rd question is asked to assess how often the subject plays Billiards, a time closer to the present might indicate frequent or habitual playing. The last background question is related to the location of the billiards table they prefer to play at. This can help decide the form factor of the website. 
+#### Tasks
+The first task is presented to the subject along with the prototype, and is a test of how mental models of users are compared to the model used by the website. The moderator takes into account the process the user takes and checks boxes for major milestones in performing the task.
+
+The Second task covers the users ability to use our drills list function, and find a beginners course. This is to test if the navigation of the website matches their mental model. The user is also asked how they would go about executing the drill to gauge whether the drill format is preferred to videos or other helpful learning alternatives.
+
+The third task is to navigate to the news article and is a test of how mental models of users are compared to the model used by the website. The moderator takes into account the process the user takes and checks boxes for major milestones in performing the task.
+#### Wrap-Up
+The wrap up questions are asked to gather more information about the general overall feeling of the website, in order to gauge user appeal. We asked about general likes dislike, the overall look and the way in particular the Drills List Page is laid out.  We also queried the user about similar products and additional features that may have interest. The users are then asked for any last comments, and are thanked for their participation. 
+
 
 ## Findings
 
