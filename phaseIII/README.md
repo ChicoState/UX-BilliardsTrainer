@@ -52,6 +52,8 @@ For the final question of what additional features we should add, half of users 
 
 ## Conclusions
 
+The first take away we had was that the website functioned as we intended, with only one bug occuring on one task. While the core functions of our website were pretty reliable, we got a lot of feedback on how to improve our site visually as well as feedback on adding some features that would make it much easier to use our website. At the time of our test, the search bar and filters were not fully usable and this was pointed out to us multiple times throughout the tests. Overall, the biggest thing we need to work on is making the website much more interactive. Adding clips of drills and other billiards related clips would make the website much more appealing and captivating compared to how it is now. As of now, it is simply information in text without any way to make it interesting. Also, it would be very useful to add more customization to the profile page to make it feel more inviting. There were many other small critiques we received that would be important to add later on. Basics such as a log out button would be very important and increasing the size of the navigation bar at the top. Overall though for what our goal with the website is, our foundation is a great starting point in terms of practicality. 
+
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 ## Caveats
