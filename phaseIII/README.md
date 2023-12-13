@@ -32,8 +32,13 @@ Each of the four user participants either read the consent form or had it read t
 
 ### Background
 
-!!! We found that most of our participants have had experience with learning a new sport in the past. Every participant had experience playing pool as well, with every user having played within the last half year. The most popular spot to play at was at a bar while some user would prefer to play at a home table.
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+We found that 75% of our participants have had notable experience with learning a new sport in the past. Every participant had experience with playing pool as well, with every user having played within the last six months. 75% of users also said they would prefer to play at a bar while 25% said they would prefer to play pool in their own home. 
+
+### Tasks
+
+Each user was able to successfully complete task one without any major challenges. Each user found it relatively easy to first login and then navigate to the profile page. For task two, 75% of users were able to successfully complete the task. One user found a bug in the system where after sorting the drills page by difficulty, they were unable to click on the drill of their choice. For the final task, every user was able to complete the task and navigate to the news section. From there, each user was able to find the Christmas article. While the task was successfully completed, not a single user was able to navigate to the article by using the search bar to find the specific author by their credentials. This was another smaller task that we were hoping that the user would be able to utilize to make their search easier.
+
+### Wrap-Up
 
 ## Conclusions
 
