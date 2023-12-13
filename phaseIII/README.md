@@ -23,6 +23,16 @@ The wrap up questions are asked to gather more information about the general ove
 
 ## Findings
 
+### Usability Study
+We had availability for six appointments for the usability test. We ended up having five potential users sign up to take the test but only four showed up. This put us below the ideal lowest sample number which was five user tests.
+
+### Introduction
+
+Each of the four user participants either read the consent form or had it read to them. After each user provided us with signatures, we proceeded to give a brief breakdown of the nature of the tasks that they were to carry out. 
+
+### Background
+
+!!! We found that most of our participants have had experience with learning a new sport in the past. Every participant had experience playing pool as well, with every user having played within the last half year. The most popular spot to play at was at a bar while some user would prefer to play at a home table.
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
 ## Conclusions
