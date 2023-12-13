@@ -40,6 +40,16 @@ Each user was able to successfully complete task one without any major challenge
 
 ### Wrap-Up
 
+For the first initial thoughts, a majority of users found the website to be visually unapppealing. However they all agreed that the website looked rather practical. 
+
+For likes/dislikes, one user was neutral while another thought that the prototype was too limited in regards to the player and about sections. Another user disliked the drills page as a result of the bug that blocked the completion of a task. Half of the users in total did list the drills page as a noticable like. 
+
+When asking for more thoughts on the drills page, half of the users liked the ability to sort the drills. Half of the users also liked the way that the difficulty was displayed for each drill. 
+
+When asked if any of the users had used a product like Billiards Trainer, they all answered no. 
+
+For the final question of what additional features we should add, half of users wanted videos or clips of billiards drills to be included in the drills section. The other recommendations were to improve the visual design and add a logout button and system where the user is asked about their experience will billiards before they log out. 
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
