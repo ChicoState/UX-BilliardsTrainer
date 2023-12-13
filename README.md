@@ -12,7 +12,7 @@ Billiards can be hard to master, hiring private tutors and reading books can onl
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -62,11 +62,16 @@ general.
 
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+**Executive Summary**<br><br>
+BilliardsTrainer aims to simplify the learning process for billiards enthusiasts, catering to beginners, casual players, and experts. The focus of this phase was on developing a prototype website and conducting a usability study to assess its effectiveness.
+- Four out of five potential users participated. While the **sample size fell below the ideal**, valuable insights were gathered.
+- 75% of participants had experienced learning a new sport, all had recent pool experience, and **75% preferred playing at a bar**.
+- Users **navigated the prototype well, with minor issues in the drill list function.** All completed tasks successfully, but the search bar for news articles posed a challenge.
+- Users found the website **visually unappealing but practical.** Feedback included neutral to negative opinions on the prototype's limitations.
+- In the future users would like
+  - **Improve website aesthetics** and interactivity.
+  - **Incorporate video content,** especially for billiards drills.
+  - Enhance **profile page customization.**
+BilliardsTrainer has a solid foundation but requires refinement to enhance user appeal and engagement, with attention to visual elements and additional features to fulfill user expectations.
 
 [Full phase III report](phaseIII/)
