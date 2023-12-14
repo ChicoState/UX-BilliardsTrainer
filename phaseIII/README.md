@@ -60,4 +60,4 @@ The biggest caveat is that the people we have gotten to do our user tests were f
 
 Furthermore, we only got four people to participate in our user study instead of 5, which makes it harder to analyze and draw conclusions from a limited pool of people.
 
-Lastly, we had 
+Lastly, we had a bug in our prototype, our drills page, that blocked a user from completing the task.
