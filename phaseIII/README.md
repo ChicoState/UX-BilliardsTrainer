@@ -1,7 +1,7 @@
 # Phase III: Prototypes and User Testing
 
 ## Introduction
-BilliardsTrainer serves to make learning Billiards easy for beginners, casual players, and even experts. Through our list of drills, stats, and local news, users immerse themselves into the culture of Billiards until they can become a regular! In this phase, we focused primarily on creating a Prototype, which is the closest representation of the end product, our website. After making the prototype, we conducted a usability test where test users could try to solve tasks we assigned them and get their feedback to find issues and improve ou design.
+BilliardsTrainer serves to make learning Billiards easy for beginners, casual players, and even experts. Through our list of drills, stats, and local news, users immerse themselves into the culture of Billiards until they can become a regular! In this phase, we focused primarily on creating a Prototype, which is the closest representation of the end product, our website. After making the prototype, we conducted a usability test where test users could try to solve tasks we assigned them and get their feedback to find issues and improve ou design. The Results were recorded in a [data sheet](assets/UXTeamData.pdf)
 
 ## Methods
 
