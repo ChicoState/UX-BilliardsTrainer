@@ -12,7 +12,7 @@ Billiards can be hard to master, hiring private tutors and reading books can onl
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototype/)
+* [Prototype](prototype/Prototype.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
