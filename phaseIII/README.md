@@ -1,14 +1,14 @@
 # Phase III: Prototypes and User Testing
 
 ## Introduction
-BilliardsTrainer serves to make learning Billiards easy for beginners, casual players, and even experts. Through our list of drills, stats, and local news, users immerse themselves into the culture of Billiards until they can become a regular! In this phase, we focused primarily on creating a Prototype, which is the closest representation of the end product, our website. After making the prototype, we conducted a usability test where test users could try to solve tasks we assigned them and get their feedback to find issues and improve ou design. The Results were recorded in a [data sheet](assets/UXTeamData.pdf)
+BilliardsTrainer serves to make learning Billiards easy for beginners, casual players, and even experts. Through our list of drills, stats, and local news, users immerse themselves into the culture of Billiards until they can become a regular! In this phase, we focused primarily on creating a Prototype, which is the closest representation of the end product, our website. After making the prototype, we conducted a usability test where test users could try to solve tasks we assigned them and get their feedback to find issues and improve our design. The Results were recorded in a [data sheet](assets/UXTeamData.pdf)
 
 ## Methods
 
 ### Usability Study
 Our team facilitated an usability study (n = 4) on the Billiards Trainer prototype. We recruited from the sample of CSCI 431W Usability Engineering due  to time and budget constraints. We facilitated four appointments with the fifth being a no-show. We realize that the ideal lowest sample number should be five. 
 #### Introduction
-The test was executed as the following, after sitting down the subjects are introduced to the [Informed Consent](assets/INFORMEDCONSENTFORM.pdf) form which is read to them as they have their own copy to follow along. The informed consent explains the time requirement, risks, and the lack of incentive and that it is a test of the product not of the user. Once signed the moderator then explains what the test will entail, including the use of the “think-aloud-protocol” as described on the [Usability Test Plan Protocol](assets/BilliardsTestPlanProtocol.pdf)
+The test was executed as the following, after sitting down the subjects are introduced to the [Informed Consent](assets/INFORMEDCONSENTFORM.pdf) form which is read to them as they have their own copy to follow along. The informed consent explains the time requirement, risks, and the lack of incentive and that it is a test of the product not of the user. Once signed, the moderator then explains what the test will entail, including the use of the “think-aloud-protocol” as described on the [Usability Test Plan Protocol](assets/BilliardsTestPlanProtocol.pdf)
 #### Background
 The moderator then proceeds to the Background Questions and takes note of important information. The 1st question is asked to attempt to understand the common methods how a subject would approach a sport to gauge overall viability to using a website to  assist in training. The 2nd question is related to interest in Billiards and is used to understand why or how people were first introduced to Billiards. The 3rd question is asked to assess how often the subject plays Billiards, a time closer to the present might indicate frequent or habitual playing. The last background question is related to the location of the billiards table they prefer to play at. This can help decide the form factor of the website. 
 #### Tasks
@@ -60,3 +60,4 @@ The biggest caveat is that the people we have gotten to do our user tests were f
 
 Furthermore, we only got four people to participate in our user study instead of 5, which makes it harder to analyze and draw conclusions from a limited pool of people.
 
+Lastly, we had 
